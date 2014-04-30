@@ -1,0 +1,4 @@
+%{"ex_doc": {:git, "git://github.com/elixir-lang/ex_doc.git", "1ce6f1068cf1eeb97e9104977bed87e2a8c3be61", []},
+  "httpotion": {:git, "git://github.com/myfreeweb/httpotion.git", "94b0fdb7bb1f5322791e3a309f2e06d0b8ab9ef3", []},
+  "ibrowse": {:git, "git://github.com/cmullaparthi/ibrowse.git", "7871e2ebe8811efb64e1917e2de455fa87e8dfe3", [tag: "v4.1.0"]},
+  "jsx": {:git, "git://github.com/talentdeficit/jsx.git", "4fba4f6c1cfeec5b16dbc216cbd79d8ac4729a46", []}}
